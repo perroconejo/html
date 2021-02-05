@@ -1,0 +1,70 @@
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: whitesmoke;
+    width: 20%;
+    border:3px solid black ;
+}
+h2,h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 3px solid greenyellow;
+    background-color: black;
+    width: 20%;
+
+    color:rgb(226, 226, 211);
+}
+ul{
+    font-size: 21px;
+}
+pre,p{ 
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 21px;
+    color: rgba(14, 12, 12, 0.993);
+    font-weight: bold;
+}
+div{
+    background-color: rgb(133, 243, 111);
+    width:50%;
+}
+body{
+    background-image:url("imagenesdelatarea/hortalizas.jpg") ;
+    background-repeat: no-repeat; background-size: cover; background-attachment: fixed;
+    
+   
+    
+}
+table,th,td{
+    border:5px solid black;
+    width: 50%;
+    background-color: white;
+    font-size: 20px;
+    vertical-align: auto;
+    margin: 5px;
+    float: center;
+}
+
+img {
+    width: 150px;
+    height: 100px;
+}
+a:link, a:visited {
+    background-color: rgb(99, 156, 13);
+    color: white;
+     padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    }
+
+a:hover, a:active {
+    background-color: rgb(121, 110, 110);
+}
+
+#empresa{
+    background-color: bisque;
+    width: 60%;
+}
+
+footer{
+    background-color: cornsilk;
+    width:15%
+}

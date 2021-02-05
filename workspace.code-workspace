@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "..\\python programas"
+		},
+		{
+			"path": "..\\primer sitioweb"
+		},
+		{
+			"path": "..\\javascript"
+		},
+		{
+			"path": "..\\productapp"
+		},
+		{
+			"path": "..\\otracarpeta"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "productapp"
+	}
+}
